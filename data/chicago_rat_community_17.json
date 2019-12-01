@@ -1,0 +1,618 @@
+[
+    {
+        "community": "Albany Park",
+        "population": 51575,
+        "renter": 0.6164,
+        "income": 24963,
+        "complaints": 862,
+        "complaintspc": 167.1352
+    },
+    {
+        "community": "Archer Heights",
+        "population": 13259,
+        "renter": 0.4088,
+        "income": 17976,
+        "complaints": 247,
+        "complaintspc": 186.2886
+    },
+    {
+        "community": "Armour Square",
+        "population": 13635,
+        "renter": 0.5757,
+        "income": 16969,
+        "complaints": 141,
+        "complaintspc": 103.4103
+    },
+    {
+        "community": "Ashburn",
+        "population": 43283,
+        "renter": 0.1543,
+        "income": 23550,
+        "complaints": 853,
+        "complaintspc": 197.0751
+    },
+    {
+        "community": "Auburn Gresham",
+        "population": 45770,
+        "renter": 0.5105,
+        "income": 17129,
+        "complaints": 1002,
+        "complaintspc": 218.9207
+    },
+    {
+        "community": "Austin",
+        "population": 97611,
+        "renter": 0.5672,
+        "income": 16728,
+        "complaints": 1583,
+        "complaintspc": 162.1743
+    },
+    {
+        "community": "Avalon Park",
+        "population": 9840,
+        "renter": 0.2862,
+        "income": 21735,
+        "complaints": 153,
+        "complaintspc": 155.4878
+    },
+    {
+        "community": "Avondale",
+        "population": 38191,
+        "renter": 0.6117,
+        "income": 24102,
+        "complaints": 1038,
+        "complaintspc": 271.7918
+    },
+    {
+        "community": "Belmont Cragin",
+        "population": 78155,
+        "renter": 0.4542,
+        "income": 17226,
+        "complaints": 1360,
+        "complaintspc": 174.0132
+    },
+    {
+        "community": "Beverly",
+        "population": 20836,
+        "renter": 0.1262,
+        "income": 43121,
+        "complaints": 176,
+        "complaintspc": 84.4692
+    },
+    {
+        "community": "Bridgeport",
+        "population": 32853,
+        "renter": 0.4969,
+        "income": 23876,
+        "complaints": 788,
+        "complaintspc": 239.8563
+    },
+    {
+        "community": "Brighton Park",
+        "population": 44231,
+        "renter": 0.4981,
+        "income": 14954,
+        "complaints": 668,
+        "complaintspc": 151.0253
+    },
+    {
+        "community": "Burnside",
+        "population": 2442,
+        "renter": 0.3779,
+        "income": 15718,
+        "complaints": 44,
+        "complaintspc": 180.1802
+    },
+    {
+        "community": "Calumet Heights",
+        "population": 13306,
+        "renter": 0.2433,
+        "income": 24824,
+        "complaints": 147,
+        "complaintspc": 110.4765
+    },
+    {
+        "community": "Chatham",
+        "population": 30946,
+        "renter": 0.6073,
+        "income": 19886,
+        "complaints": 367,
+        "complaintspc": 118.5937
+    },
+    {
+        "community": "Chicago Lawn",
+        "population": 54265,
+        "renter": 0.4849,
+        "income": 14008,
+        "complaints": 865,
+        "complaintspc": 159.4029
+    },
+    {
+        "community": "Clearing",
+        "population": 25200,
+        "renter": 0.2843,
+        "income": 25293,
+        "complaints": 1587,
+        "complaintspc": 629.7619
+    },
+    {
+        "community": "Douglas",
+        "population": 20559,
+        "renter": 0.7981,
+        "income": 22863,
+        "complaints": 103,
+        "complaintspc": 50.0997
+    },
+    {
+        "community": "Dunning",
+        "population": 43444,
+        "renter": 0.2285,
+        "income": 27413,
+        "complaints": 690,
+        "complaintspc": 158.8252
+    },
+    {
+        "community": "East Garfield Park",
+        "population": 20234,
+        "renter": 0.7775,
+        "income": 14776,
+        "complaints": 559,
+        "complaintspc": 276.2677
+    },
+    {
+        "community": "East Side",
+        "population": 23013,
+        "renter": 0.3085,
+        "income": 17994,
+        "complaints": 103,
+        "complaintspc": 44.7573
+    },
+    {
+        "community": "Edgewater",
+        "population": 55430,
+        "renter": 0.6319,
+        "income": 37004,
+        "complaints": 1045,
+        "complaintspc": 188.5261
+    },
+    {
+        "community": "Edison Park",
+        "population": 11150,
+        "renter": 0.165,
+        "income": 48113,
+        "complaints": 51,
+        "complaintspc": 45.7399
+    },
+    {
+        "community": "Englewood",
+        "population": 26020,
+        "renter": 0.7379,
+        "income": 11986,
+        "complaints": 858,
+        "complaintspc": 329.7463
+    },
+    {
+        "community": "Forest Glen",
+        "population": 18631,
+        "renter": 0.089,
+        "income": 46462,
+        "complaints": 406,
+        "complaintspc": 217.9164
+    },
+    {
+        "community": "Fuller Park",
+        "population": 2377,
+        "renter": 0.5813,
+        "income": 16839,
+        "complaints": 179,
+        "complaintspc": 753.0501
+    },
+    {
+        "community": "Gage Park",
+        "population": 40926,
+        "renter": 0.3916,
+        "income": 12669,
+        "complaints": 431,
+        "complaintspc": 105.312
+    },
+    {
+        "community": "Garfield Ridge",
+        "population": 35542,
+        "renter": 0.1622,
+        "income": 27448,
+        "complaints": 893,
+        "complaintspc": 251.252
+    },
+    {
+        "community": "Grand Boulevard",
+        "population": 22634,
+        "renter": 0.766,
+        "income": 22713,
+        "complaints": 278,
+        "complaintspc": 122.8241
+    },
+    {
+        "community": "Grt.Grand Crossing",
+        "population": 32461,
+        "renter": 0.6436,
+        "income": 16357,
+        "complaints": 479,
+        "complaintspc": 147.5617
+    },
+    {
+        "community": "Hegewisch",
+        "population": 9151,
+        "renter": 0.2374,
+        "income": 28515,
+        "complaints": 42,
+        "complaintspc": 45.8966
+    },
+    {
+        "community": "Hermosa",
+        "population": 24450,
+        "renter": 0.507,
+        "income": 16524,
+        "complaints": 401,
+        "complaintspc": 164.0082
+    },
+    {
+        "community": "Humboldt Park",
+        "population": 56248,
+        "renter": 0.6089,
+        "income": 14809,
+        "complaints": 1173,
+        "complaintspc": 208.5407
+    },
+    {
+        "community": "Hyde Park",
+        "population": 26573,
+        "renter": 0.6026,
+        "income": 39392,
+        "complaints": 150,
+        "complaintspc": 56.4483
+    },
+    {
+        "community": "Irving Park",
+        "population": 55417,
+        "renter": 0.5214,
+        "income": 29004,
+        "complaints": 1761,
+        "complaintspc": 317.7725
+    },
+    {
+        "community": "Jefferson Park",
+        "population": 26755,
+        "renter": 0.327,
+        "income": 33503,
+        "complaints": 610,
+        "complaintspc": 227.9948
+    },
+    {
+        "community": "Kenwood",
+        "population": 17074,
+        "renter": 0.6474,
+        "income": 40540,
+        "complaints": 71,
+        "complaintspc": 41.5837
+    },
+    {
+        "community": "Lake View",
+        "population": 99876,
+        "renter": 0.6037,
+        "income": 64545,
+        "complaints": 1983,
+        "complaintspc": 198.5462
+    },
+    {
+        "community": "Lincoln Park",
+        "population": 67260,
+        "renter": 0.5189,
+        "income": 71664,
+        "complaints": 1478,
+        "complaintspc": 219.7443
+    },
+    {
+        "community": "Lincoln Square",
+        "population": 41483,
+        "renter": 0.5391,
+        "income": 42365,
+        "complaints": 934,
+        "complaintspc": 225.1525
+    },
+    {
+        "community": "Logan Square",
+        "population": 74606,
+        "renter": 0.611,
+        "income": 36786,
+        "complaints": 2220,
+        "complaintspc": 297.5632
+    },
+    {
+        "community": "Loop",
+        "population": 35010,
+        "renter": 0.61,
+        "income": 73267,
+        "complaints": 210,
+        "complaintspc": 59.9829
+    },
+    {
+        "community": "Lower West Side",
+        "population": 32998,
+        "renter": 0.7114,
+        "income": 19181,
+        "complaints": 474,
+        "complaintspc": 143.6451
+    },
+    {
+        "community": "McKinley Park",
+        "population": 16064,
+        "renter": 0.4184,
+        "income": 18656,
+        "complaints": 229,
+        "complaintspc": 142.5548
+    },
+    {
+        "community": "Montclare",
+        "population": 12992,
+        "renter": 0.3414,
+        "income": 26303,
+        "complaints": 265,
+        "complaintspc": 203.9717
+    },
+    {
+        "community": "Morgan Park",
+        "population": 28919,
+        "renter": 0.2692,
+        "income": 27814,
+        "complaints": 257,
+        "complaintspc": 88.8689
+    },
+    {
+        "community": "Mount Greenwood",
+        "population": 19029,
+        "renter": 0.1,
+        "income": 34779,
+        "complaints": 282,
+        "complaintspc": 148.1949
+    },
+    {
+        "community": "Near North Side",
+        "population": 86343,
+        "renter": 0.5663,
+        "income": 90833,
+        "complaints": 628,
+        "complaintspc": 72.7332
+    },
+    {
+        "community": "Near South Side",
+        "population": 23190,
+        "renter": 0.4394,
+        "income": 76831,
+        "complaints": 57,
+        "complaintspc": 24.5796
+    },
+    {
+        "community": "Near West Side",
+        "population": 62560,
+        "renter": 0.6429,
+        "income": 47480,
+        "complaints": 651,
+        "complaintspc": 104.0601
+    },
+    {
+        "community": "New City",
+        "population": 41178,
+        "renter": 0.5908,
+        "income": 13076,
+        "complaints": 864,
+        "complaintspc": 209.8208
+    },
+    {
+        "community": "North Center",
+        "population": 34942,
+        "renter": 0.4298,
+        "income": 60260,
+        "complaints": 601,
+        "complaintspc": 171.9993
+    },
+    {
+        "community": "North Lawndale",
+        "population": 35423,
+        "renter": 0.7512,
+        "income": 12466,
+        "complaints": 962,
+        "complaintspc": 271.575
+    },
+    {
+        "community": "North Park",
+        "population": 18743,
+        "renter": 0.4461,
+        "income": 26578,
+        "complaints": 473,
+        "complaintspc": 252.3609
+    },
+    {
+        "community": "Norwood Park",
+        "population": 41351,
+        "renter": 0.1472,
+        "income": 36975,
+        "complaints": 436,
+        "complaintspc": 105.4388
+    },
+    {
+        "community": "O'Hare",
+        "population": 21756,
+        "renter": 0.5015,
+        "income": 26727,
+        "complaints": 8,
+        "complaintspc": 3.6771
+    },
+    {
+        "community": "Oakland",
+        "population": 6474,
+        "renter": 0.8386,
+        "income": 19630,
+        "complaints": 13,
+        "complaintspc": 20.0803
+    },
+    {
+        "community": "Portage Park",
+        "population": 64523,
+        "renter": 0.4057,
+        "income": 27095,
+        "complaints": 1501,
+        "complaintspc": 232.6302
+    },
+    {
+        "community": "Pullman",
+        "population": 6620,
+        "renter": 0.523,
+        "income": 21603,
+        "complaints": 70,
+        "complaintspc": 105.7402
+    },
+    {
+        "community": "Riverdale",
+        "population": 7382,
+        "renter": 0.9256,
+        "income": 8326,
+        "complaints": 12,
+        "complaintspc": 16.2558
+    },
+    {
+        "community": "Rogers Park",
+        "population": 55500,
+        "renter": 0.7454,
+        "income": 24707,
+        "complaints": 1035,
+        "complaintspc": 186.4865
+    },
+    {
+        "community": "Roseland",
+        "population": 42327,
+        "renter": 0.4704,
+        "income": 19305,
+        "complaints": 603,
+        "complaintspc": 142.4623
+    },
+    {
+        "community": "South Chicago",
+        "population": 27601,
+        "renter": 0.61,
+        "income": 15996,
+        "complaints": 351,
+        "complaintspc": 127.1693
+    },
+    {
+        "community": "South Deering",
+        "population": 14635,
+        "renter": 0.413,
+        "income": 15295,
+        "complaints": 136,
+        "complaintspc": 92.9279
+    },
+    {
+        "community": "South Lawndale",
+        "population": 73983,
+        "renter": 0.6199,
+        "income": 10910,
+        "complaints": 1100,
+        "complaintspc": 148.6828
+    },
+    {
+        "community": "South Shore",
+        "population": 48552,
+        "renter": 0.7529,
+        "income": 19491,
+        "complaints": 340,
+        "complaintspc": 70.028
+    },
+    {
+        "community": "Uptown",
+        "population": 56296,
+        "renter": 0.7012,
+        "income": 37306,
+        "complaints": 821,
+        "complaintspc": 145.8363
+    },
+    {
+        "community": "Washington Heights",
+        "population": 27055,
+        "renter": 0.2994,
+        "income": 22008,
+        "complaints": 398,
+        "complaintspc": 147.1077
+    },
+    {
+        "community": "Washington Park",
+        "population": 11868,
+        "renter": 0.8567,
+        "income": 14015,
+        "complaints": 127,
+        "complaintspc": 107.0104
+    },
+    {
+        "community": "West Elsdon",
+        "population": 19932,
+        "renter": 0.2777,
+        "income": 17134,
+        "complaints": 442,
+        "complaintspc": 221.754
+    },
+    {
+        "community": "West Englewood",
+        "population": 30798,
+        "renter": 0.5136,
+        "income": 13671,
+        "complaints": 1125,
+        "complaintspc": 365.2835
+    },
+    {
+        "community": "West Garfield Park",
+        "population": 17490,
+        "renter": 0.723,
+        "income": 12107,
+        "complaints": 383,
+        "complaintspc": 218.9823
+    },
+    {
+        "community": "West Lawn",
+        "population": 33595,
+        "renter": 0.2364,
+        "income": 17786,
+        "complaints": 710,
+        "complaintspc": 211.341
+    },
+    {
+        "community": "West Pullman",
+        "population": 30793,
+        "renter": 0.3945,
+        "income": 17589,
+        "complaints": 335,
+        "complaintspc": 108.791
+    },
+    {
+        "community": "West Ridge",
+        "population": 73723,
+        "renter": 0.5291,
+        "income": 24332,
+        "complaints": 2041,
+        "complaintspc": 276.8471
+    },
+    {
+        "community": "West Town",
+        "population": 84458,
+        "renter": 0.611,
+        "income": 49992,
+        "complaints": 2293,
+        "complaintspc": 271.4959
+    },
+    {
+        "community": "Woodlawn",
+        "population": 26024,
+        "renter": 0.763,
+        "income": 17614,
+        "complaints": 167,
+        "complaintspc": 64.1715
+    }
+]

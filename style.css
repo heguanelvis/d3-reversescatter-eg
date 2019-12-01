@@ -1,0 +1,78 @@
+/* 
+font-family: 'Merriweather Sans', sans-serif 
+*/
+
+:root {
+  --color1: rgba(94, 93, 93, 0.7);
+  --color2: rgba(250, 79, 0, 0.7);
+  --color3: rgb(233,236,239);
+  --color4: rgb(70,74,78);
+  --family1: 'Merriweather Sans', sans-serif;
+}
+
+svg {
+    font-family: var(--family1);
+}
+
+.svg-center {
+    display: block;
+    margin: auto;
+}
+
+.circles {
+    fill: var(--color1);
+}
+
+.renter-circles {
+    fill: var(--color2);
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.source {
+    fill: var(--color2);
+}
+
+.jumbotron-title {
+    font-size: 2rem;
+    font-family: var(--family1);
+}
+
+.jumbotron-lead {
+    font-size: 1.2rem;
+    font-family: var(--family1);
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    border-bottom: var(--color4) 1px solid;
+}
+
+.ticks {
+    font-family: var(--family1);
+    font-size: 12px;
+}
+
+.feature-intro {
+    font-family: var(--family1);
+    background: var(--color3);
+    padding-top: 1rem;
+    border: solid var(--color4);
+    border-width: 0 0px 1px 0px;
+}
+
+.feature-title {
+    font-size: 1.4rem;
+}
+
+.feature-item {
+    font-size: 1rem;
+}
+
+@media only screen and (min-width: 1200px) {
+    .feature-intro {
+        border-width: 1px;
+    }
+}
